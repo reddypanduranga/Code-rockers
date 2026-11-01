@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: industry.seoTitle,
       description: industry.seoDescription,
       type: "article",
-      url: `https://coderockers.com/industries/${industry.slug}`
+      url: `https://coderockers.in/industries/${industry.slug}`
     }
   };
 }

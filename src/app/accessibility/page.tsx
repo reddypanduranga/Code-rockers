@@ -33,7 +33,7 @@ export default function AccessibilityPage() {
       <div className="bg-slate-50 border-b border-slate-200/80 py-12 lg:py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 space-y-4">
           <Breadcrumbs items={[{ label: "Accessibility" }]} />
-          
+
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-xs font-semibold uppercase tracking-wider">
             <Sparkles className="w-3.5 h-3.5" />
             <span>Inclusive Digital Standards</span>
@@ -75,8 +75,8 @@ export default function AccessibilityPage() {
           </h3>
           <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
             If you encounter an accessibility barrier on any part of the Code Rockers website, please notify our accessibility team at{" "}
-            <a href="mailto:accessibility@coderockers.com" className="text-blue-600 underline">
-              accessibility@coderockers.com
+            <a href="mailto:accessibility@coderockers.in" className="text-blue-600 underline">
+              accessibility@coderockers.in
             </a>
             . We review all reports and respond with prioritized remediation within 3 business days.
           </p>

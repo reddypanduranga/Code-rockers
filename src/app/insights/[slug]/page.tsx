@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       publishedTime: article.publishedDate,
       authors: [article.author.name],
-      url: `https://coderockers.com/insights/${article.slug}`
+      url: `https://coderockers.in/insights/${article.slug}`
     }
   };
 }

@@ -5,7 +5,7 @@ import { getAllIndustries } from "@/data/industries";
 import { getAllArticles } from "@/data/insights";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://coderockers.com";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://coderockers.in";
   const now = new Date("2026-11-01");
 
   // Static core routes

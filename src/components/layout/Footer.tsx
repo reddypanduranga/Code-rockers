@@ -8,7 +8,7 @@ import { Mail, Phone, MapPin, ArrowRight, Globe } from "lucide-react";
 export const Footer: React.FC = () => {
   const currentYear = 2026;
   const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL || "coderockersgroup@gmail.com";
-  const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || "+91 40 4852 9100";
+  const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || "+91**********";
   const contactAddress = process.env.NEXT_PUBLIC_CONTACT_ADDRESS || "HITEC City, Madhapur, Hyderabad, Telangana 500081, India";
 
   return (

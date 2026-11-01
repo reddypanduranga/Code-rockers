@@ -69,8 +69,8 @@ export default function PrivacyPolicyPage() {
           <h2 className="text-xl font-bold text-slate-900">5. Contact Information</h2>
           <p>
             If you have questions regarding this privacy notice or wish to exercise your data rights, please contact our data governance team at{" "}
-            <a href="mailto:privacy@coderockers.com" className="text-blue-600 underline">
-              privacy@coderockers.com
+            <a href="mailto:privacy@coderockers.in" className="text-blue-600 underline">
+              privacy@coderockers.in
             </a>
             .
           </p>

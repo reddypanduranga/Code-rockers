@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Code Rockers — Technology That Moves Your Business Forward",
     description: "Premium IT services, software development, AI solutions, and cloud engineering.",
     type: "website",
-    url: "https://coderockers.com"
+    url: "https://coderockers.in"
   }
 };
 

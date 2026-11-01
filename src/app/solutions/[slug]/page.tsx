@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: solution.seoTitle,
       description: solution.seoDescription,
       type: "article",
-      url: `https://coderockers.com/solutions/${solution.slug}`
+      url: `https://coderockers.in/solutions/${solution.slug}`
     }
   };
 }

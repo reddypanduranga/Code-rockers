@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: service.seoTitle,
       description: service.seoDescription,
       type: "article",
-      url: `https://coderockers.com/services/${service.slug}`
+      url: `https://coderockers.in/services/${service.slug}`
     }
   };
 }

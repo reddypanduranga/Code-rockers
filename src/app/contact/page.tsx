@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL || "coderockersgroup@gmail.com";
-  const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || "+1 (555) 019-2834";
+  const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || "+91**********";
   const contactAddress = process.env.NEXT_PUBLIC_CONTACT_ADDRESS || "HITEC City, Madhapur, Hyderabad, Telangana 500081, India";
 
   return (

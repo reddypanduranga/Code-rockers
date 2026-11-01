@@ -137,8 +137,8 @@ npm start
 ### Environment Configuration
 Copy `.env.example` to `.env.local` to customize site metadata:
 ```bash
-NEXT_PUBLIC_SITE_URL=https://coderockers.com
+NEXT_PUBLIC_SITE_URL=https://coderockers.in
 NEXT_PUBLIC_CONTACT_EMAIL=coderockersgroup@gmail.com
-NEXT_PUBLIC_CONTACT_PHONE="+1 (555) 019-2834"
+NEXT_PUBLIC_CONTACT_PHONE="+91**********"
 NEXT_PUBLIC_CONTACT_ADDRESS="HITEC City, Madhapur, Hyderabad, Telangana 500081, India"
 ```
